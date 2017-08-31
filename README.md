@@ -1,6 +1,6 @@
 # Brute Game
 
-This single page website was designed to showcase Brute, an arcade style game. 
+This is the index file of single page website designed to showcase Brute, an arcade style game. 
 
 The site can be viewed here:
 
